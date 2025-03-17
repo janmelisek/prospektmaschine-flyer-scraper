@@ -39,8 +39,6 @@ Na začiatku skriptu nájdete niekoľko premenných, ktoré je možné upraviť 
     ```bash
     pip install requests beautifulsoup4
     ```
-   (Prípadne vytvorte súbor `requirements.txt` s uvedenými závislosťami.)
-
 ## Použitie
 Spustite skript:
 ```bash
